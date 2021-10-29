@@ -1,5 +1,7 @@
 # in_class_assignments
 
+# Week 7
+
 ## ERD for a grocery store
 
 ![ERD class](https://github.com/tfgerling/in_class_assignments/blob/main/Week7_In_class.svg?raw=true)
