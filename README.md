@@ -1,8 +1,10 @@
 # in_class_assignments
 
+# Week 7
+
 ## ERD for a grocery store
 
-![ERD class](https://github.com/tfgerling/homework_6/blob/main/Week7_In_class.svg?raw=true)
+![ERD class](https://github.com/tfgerling/in_class_assignments/blob/main/Week7_In_class.svg?raw=true)
 
 ## What kind of data would be dirty?
 
